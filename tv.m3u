@@ -26,9 +26,9 @@ https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0073
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png" group-title="CD Cd Aut Bs As",El Destape - 24.6TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0074
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C5N.png" group-title="CD Cd Aut Bs As",C5N - 25.2TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+https://www.youtube.com/watch?v=Xj1boMmMJKU
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0076
+https://www.youtube.com/watch?v=G5pHuBCqgrs
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----LN.png" group-title="CD Cd Aut Bs As",LN+ 2 - 25.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELESU.png" group-title="CD Cd Aut Bs As",Telesur - 25.4TV - CABA TV TDA - CD Cd Aut Bs As
@@ -38,7 +38,7 @@ https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICANALE.png" group-title="CD Cd Aut Bs As",Canal-E - 25.6TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--26TV.png" group-title="CD Cd Aut Bs As",Canal 26 - 26.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0081
+https://www.youtube.com/watch?v=35LSnUPu5RY
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---TLX.png" group-title="CD Cd Aut Bs As",Telemax - 26.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0082
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-NETTV.png" group-title="CD Cd Aut Bs As",NET TV - 27.2TV - CABA TV TDA - CD Cd Aut Bs As
@@ -46,9 +46,9 @@ https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0083
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIURTEVE.png" group-title="CD Cd Aut Bs As",Urbana TeVe - 32.2TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0084
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS85.png" group-title="CD Cd Aut Bs As",LS85 El Trece - 33.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0085
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
-https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0086
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe Noticias - 34.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0087
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS86.png" group-title="CD Cd Aut Bs As",LS86 America - 36.1TV - CABA TV TDA - CD Cd Aut Bs As
