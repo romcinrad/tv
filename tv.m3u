@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-GENTV.png" group-title="CD Cd Aut Bs As",GenTV - 17.3TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0062
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/512px-Telefe_%28nuevo_logo%29.png" group-title="Undefined",Telefe (720p) [Geo-blocked]
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 group-title="CD Cd Aut Bs As", Xtrema Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRealpolitik.ar" tvg-logo="https://i.imgur.com/L9KCdTX.png" group-title="Music",Radio Realpolitik (720p)
